@@ -2,7 +2,10 @@
 
 <h1 align="center">Merhaba 👋, ben Hayati</h1><
 <h3 align="center">19 yaşındayım ve Türkiye'de yaşıyorum</h3><
+                                                               
 - 🔭 Şu anda [Python] üzerinde çalışıyorum (https://github.com/HayatiDemir0)
+- 
+  
 - 👨 💻 Tüm projelerim şu adreste mevcuttur: [https://github.com/HayatiDemir0](https://github.com/HayatiDemir0)
 
 - 📫 Bana nasıl ulaşılır: **hayatidemiirr@gmail.com**
