@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [https://github.com/HayatiDemir0](https://github.com/HayatiDemir0)
 
-- 🌱 I’m currently learning **HTML,CSS,SQL**
+- 🌱 I’m currently learning **HTML,CSS,JAVASCRİPT,SQL,PYTHON,MSSQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HayatiDemir0](https://github.com/HayatiDemir0)
 
