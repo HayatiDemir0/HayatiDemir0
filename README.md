@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hayati Demir</h1>
-<h3 align="center">19 yaşındayım ve Türkiye'de yaşıyorum</h3>
+<h3 align="center">
+I am 19 years old and live in Türkiye</h3>
 - 🔭 I’m currently working on **https://github.com/HayatiDemir0**
 
 - 🌱 I’m currently learning **HTML,CSS,JAVASCRİPT**
