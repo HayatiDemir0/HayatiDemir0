@@ -3,7 +3,7 @@
 I am 19 years old and live in Türkiye</h3>
 - 🔭 I’m currently working on  https://github.com/HayatiDemir0
 
-- 🌱 I’m currently learning **HTML,CSS,JAVASCRİPT**
+- 🌱 I’m currently learning **API,FLASK**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HayatiDemir0](https://github.com/HayatiDemir0)
 
